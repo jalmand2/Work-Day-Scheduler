@@ -15,7 +15,7 @@ N/A
 Below is a screenshot and link to the deployed application. 
 
 ![alt text](./assets/images/work-scheduler.jpg)
-![This is the link to the Work Day Scheduler.](https://jalmand2.github.io/challenge-five/)
+[This is the link to the Work Day Scheduler.](https://jalmand2.github.io/challenge-five/)
 
 ## License
 
