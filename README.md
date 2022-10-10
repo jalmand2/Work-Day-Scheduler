@@ -1,6 +1,4 @@
-README Frame
-
-# <Your-Project-Title>
+# Work Day Scheduler
 
 ## Description
 
